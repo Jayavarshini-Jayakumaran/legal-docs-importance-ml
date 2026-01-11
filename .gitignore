@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+catboost_info/
+*.cbm
+*.pkl
+*.log
+.DS_Store
+.env
+outputs/
