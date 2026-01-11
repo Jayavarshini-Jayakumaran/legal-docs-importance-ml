@@ -27,7 +27,7 @@ def main():
         print("\nPipeline executed successfully!")
 
     except Exception:
-        print("\n❌ Pipeline execution failed")
+        print("\nPipeline execution failed")
         traceback.print_exc()
         sys.exit(1)
 
