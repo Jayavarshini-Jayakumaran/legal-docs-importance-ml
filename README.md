@@ -15,7 +15,7 @@ textual, structural, and semantic features.
 1. Data cleaning & normalization
 2. Feature engineering (text, metadata, semantic)
 3. Model training using CatBoost
-4. Prediction & submission generation
+4. Prediction
 
 ## How to Run
 ```bash
