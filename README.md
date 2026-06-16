@@ -33,6 +33,22 @@ investigations and more efficient document review.
 └── requirements.txt
 ```
 
+## Dataset
+
+This project uses a dataset from a data science competition.
+Due to competition terms of service, the data cannot be redistributed.
+
+To run this project:
+1. Download `train.csv` and `test.csv` from the Kaggle competition:
+   **https://www.kaggle.com/competitions/bash-8-0-round-2/data**
+2. Place them in :
+```
+data/
+└── raw/
+    ├── train.csv
+    └── test.csv
+```
+
 ## How to Run
 
 ```bash
