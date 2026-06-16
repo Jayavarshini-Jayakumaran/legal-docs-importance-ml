@@ -1,13 +1,29 @@
+# Virtual environment
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
 .ipynb_checkpoints/
+
+# CatBoost training artifacts
 catboost_info/
+
+# Raw and processed data (too large / sensitive for git)
 data/raw/
 data/processed/
+
+# Trained models (large binary files)
+models/
 *.cbm
 *.pkl
+
+# Pipeline outputs
+outputs/
+
+# Logs and temp files
 *.log
 .DS_Store
 .env
-outputs/
+
