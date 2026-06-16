@@ -138,3 +138,11 @@ numpy
 scikit-learn
 catboost
 ```
+
+---
+
+🙌 **Connect** — [LinkedIn: Jayavarshini Jayakumaran](https://www.linkedin.com/in/jayavarshini-jayakumaran)
+
+📄 **License** — [MIT](LICENSE)
+
+<p align="center"><b>Finish what you started 💻 </b></p>s
