@@ -145,4 +145,4 @@ catboost
 
 📄 **License** — [MIT](LICENSE)
 
-<p align="center"><b>Finish what you started 💻 </b></p>s
+<p align="center"><b>Finish what you started 💻 </b></p>
