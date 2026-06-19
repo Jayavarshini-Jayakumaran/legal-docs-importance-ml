@@ -140,9 +140,10 @@ catboost
 ```
 
 ---
+📧 **Email** — [jayavarshinijayakumaran11@gmail.com](mailto:jayavarshinijayakumaran11@gmail.com)
 
 🙌 **Connect** — [LinkedIn: Jayavarshini Jayakumaran](https://www.linkedin.com/in/jayavarshini-jayakumaran)
 
 📄 **License** — [MIT](LICENSE)
 
-<p align="center"><b>Finish what you started 💻 </b></p>
+<p align="center"><b>Finish what you started 💻</b></p>
