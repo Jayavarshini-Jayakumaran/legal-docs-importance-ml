@@ -1,6 +1,6 @@
 # Legal Document Importance Prediction
 
-Predicts the importance score of legal documents (0–100) using structural
+Predicts the importance score of legal documents (0-100) using structural
 and semantic features, enabling automated prioritisation for faster
 investigations and more efficient document review.
 
